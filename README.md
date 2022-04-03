@@ -17,4 +17,8 @@ It includes:
   demonstrating sufficient Gatling functionality
 * proper source file layout
 
-#https://gatling.io/docs/gatling/reference/current/core/injection/
+### doc
+https://gatling.io/docs/gatling/reference/current/core/injection/
+
+###  run
+> mvn gatling:test
